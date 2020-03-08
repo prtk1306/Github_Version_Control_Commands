@@ -8,7 +8,7 @@ git config --global user.name "GithubUserName"
 git config --global user.email [emailId@domain.com]
 
 * To clone a repository on your local system <br>
-git clone "repositoryURL"
+git clone [repositoryURL]
 
 * To set your local forked repository as origin for pull requests <br>
 git remote set-url origin [YourForkedRepositoryURL]
